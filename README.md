@@ -1,7 +1,6 @@
 <div >
 ## Olá! Prazer sou o Gabriel Lima
 
-- 💻 Hoje eu trabalho com Infraestrutura
 - 🤓 Estudando Front-End
 - 😄 Pronouns: ele/dele
 </div>
